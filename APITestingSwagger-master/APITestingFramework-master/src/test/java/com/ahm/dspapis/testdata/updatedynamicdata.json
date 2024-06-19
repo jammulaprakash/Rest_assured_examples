@@ -1,0 +1,11 @@
+{
+  "firstname": "prakash",
+  "lastname": "jammula",
+  "totalprice": "111",
+  "depositpaid": "paid_value",
+  "bookingdates": {
+    "checkin": "checkin_value",
+    "checkout": "2021-12-12"
+  },
+  "additionalneeds": "not required"
+}

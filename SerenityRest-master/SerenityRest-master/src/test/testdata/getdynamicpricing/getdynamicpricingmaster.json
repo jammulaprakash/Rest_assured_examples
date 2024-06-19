@@ -1,0 +1,35 @@
+{
+  "mit": {
+    "clientinfo": {
+      "appid": "string",
+      "sessionid": "string",
+      "serverip": "string",
+      "userid": "string",
+      "echoinput": "string",
+      "domain": "string"
+    },
+    "_Private": {
+      "key": "string"
+    },
+    "input": {
+      "required": {
+        "productDivisionCD": "input_productDivisionCD",
+        "vehicleTypeCD": "input_vehicleTypeCD",
+        "transactionType": "Captive Lease",
+        "modelID": "input_modelID",
+        "dealerNo": "input_dealerNo",
+        "customerZipCode": "input_customerZipCode",
+        "dealerZipCode": "input_dealerZipCode",
+        "ciamUserID": "ABC1234",
+        "eUserIdent": "input_eUserIdent"
+      },
+      "optional": {
+        "source": "string",
+        "fico": "optional_fico",
+        "customerSelectedOffers": [
+          "optional_customerSelectedOffers"
+        ]
+      }
+    }
+  }
+}
